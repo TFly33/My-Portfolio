@@ -41,6 +41,10 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.weirdBlue 
+{
+  color:#2c3e50
+}
 *,
 *::before,
 *::after {
